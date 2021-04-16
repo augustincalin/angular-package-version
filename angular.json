@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngPacVer"
+    }
+  },
+  "defaultProject": "AngPacVer",
+  "cli": {
+    "analytics": false
+  }
 }
